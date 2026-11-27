@@ -7,8 +7,33 @@
    "year": "3",
    "desc": "G",
    "poster": "https://raw.githubusercontent.com/fady1234/M/main/posters/mwyxsyqk38n-1795781279048.jpg",
-   "eps": [],
+   "eps": [
+    {
+     "id": "mwyzk863d9q",
+     "title": "الحلقة 1",
+     "src": "https://witanime.site/watch/kyouran-reijou-nia-liston/8"
+    },
+    {
+     "id": "mwyzkxstbaz",
+     "title": "الحلقة 2",
+     "src": "https://mega.nz/file/SWhnyIjA#uQdJtMZS-GkebY7ThQzuDkLS_prfESiBp3NS8SEg4dI"
+    },
+    {
+     "id": "mwyzl6295ez",
+     "title": "الحلقة 3",
+     "src": "<iframe src=\"https://mega.nz/embed/SWhnyIjA#uQdJtMZS-GkebY7ThQzuDkLS_prfESiBp3NS8SEg4dI\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+    }
+   ],
    "id": "mwyxsyqk38n"
+  },
+  {
+   "title": "l",
+   "genre": "",
+   "year": "",
+   "desc": "",
+   "poster": "https://raw.githubusercontent.com/fady1234/M/main/posters/mwyzpduhyaf-1795784470295.jpg",
+   "eps": [],
+   "id": "mwyzpduhyaf"
   }
  ]
 }
