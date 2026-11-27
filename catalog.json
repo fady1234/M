@@ -2,24 +2,13 @@
  "version": 1,
  "series": [
   {
-   "title": "Boooooooooo",
-   "genre": "Moooooo",
-   "year": "0000000000",
-   "desc": "A7oooooooo",
-   "poster": "https://raw.githubusercontent.com/fady1234/M/main/posters/mwyxoij3sfo-1795781210380.jpg",
-   "eps": [
-    {
-     "id": "mwyxqikbzyv",
-     "title": "الحلقة 1",
-     "src": "https://mega.nz/file/JvgH3KjR#bNdqoG99W_Sn7J9dnNdhffwNoywZInUcrJ4-pAZM55M"
-    },
-    {
-     "id": "mwyxr5xq5s1",
-     "title": "الحلقة 2",
-     "src": "https://youtu.be/sUNKxsVONug"
-    }
-   ],
-   "id": "mwyxoij3sfo"
+   "title": "Y",
+   "genre": "G",
+   "year": "3",
+   "desc": "G",
+   "poster": "https://raw.githubusercontent.com/fady1234/M/main/posters/mwyxsyqk38n-1795781279048.jpg",
+   "eps": [],
+   "id": "mwyxsyqk38n"
   }
  ]
 }
